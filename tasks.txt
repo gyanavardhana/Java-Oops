@@ -7,10 +7,12 @@ Create two instances of the "Dog" class, set their attributes using the construc
  and print the updated values.
 
 
-3. Write a Java program to create a class called "Rectangle" with width and height attributes. Calculate the area and perimeter of the rectangle.
+3. Write a Java program to create a class called "Rectangle" with width and height attributes. 
+   Calculate the area and perimeter of the rectangle.
 
 
-4. Write a Java program to create a class called "Circle" with a radius attribute. You can access and modify this attribute. Calculate the area and circumference of the circle.
+4. Write a Java program to create a class called "Circle" with a radius attribute. 
+You can access and modify this attribute. Calculate the area and circumference of the circle.
 
 
 5. Write a Java program to create a class called "Book" with attributes for title, author, and ISBN, and methods to add and remove books from a collection.
